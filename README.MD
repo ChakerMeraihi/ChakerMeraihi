@@ -1,7 +1,6 @@
 # Chaker Meraihi – GitHub Portfolio
 
 Paris, France  
-+33 6 41 40 73 49  
 chakermeraihi@yahoo.fr  
 [LinkedIn](https://www.linkedin.com/in/chaker-meraihi-b505b6292/)
 
