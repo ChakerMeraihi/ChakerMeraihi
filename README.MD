@@ -51,7 +51,7 @@ Stochastic Calculus • Numerical Methods for Pricing & Model Calibration • Fi
 
 ---
 
-## Projects 🌟
+## Projects 
 
 I have worked on various projects related to mathematics, finance, and machine learning, showcasing my skills and understanding in these areas.  
 As you can see in my pinned repositories, I have applied theoretical concepts to real-world challenges.
